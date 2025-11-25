@@ -1,6 +1,4 @@
 # Brutal-Force-FTP
-Projeto prático utilizando Kali Linux e a ferramenta Medusa, em conjunto com ambientes vulneráveis Metasploitable 2 , para simular cenários de ataque de força bruta e medidas de prevenção.
-
 # 🛡️ Medusa Brute-Force Simulation Project
 
 Este projeto simula e documenta ataques de força bruta usando a ferramenta **Medusa** a partir do Kali Linux contra alvos vulneráveis (Metasploitable 2, com foco na documentação e mitigação.
