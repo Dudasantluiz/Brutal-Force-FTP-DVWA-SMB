@@ -3,7 +3,7 @@ Projeto prático utilizando Kali Linux e a ferramenta Medusa, em conjunto com am
 
 # 🛡️ Medusa Brute-Force Simulation Project
 
-Este projeto simula e documenta ataques de força bruta usando a ferramenta **Medusa** a partir do Kali Linux contra alvos vulneráveis (Metasploitable 2 e DVWA), com foco na documentação e mitigação.
+Este projeto simula e documenta ataques de força bruta usando a ferramenta **Medusa** a partir do Kali Linux contra alvos vulneráveis (Metasploitable 2, com foco na documentação e mitigação.
 
 ## ⚠️ Descrição
 
@@ -46,6 +46,7 @@ medusa -h 192.168.56.20 -U attacks/wordlist-ftp.txt -P attacks/wordlist-ftp.txt 
 Resultado:
 
 Credencial Encontrada: msfadmin:msfadmin
+
 
 
 
