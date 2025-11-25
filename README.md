@@ -46,7 +46,8 @@ medusa -h 192.168.56.20 -U attacks/wordlist-ftp.txt -P attacks/wordlist-ftp.txt 
 Resultado:
 
 Credencial Encontrada: msfadmin:msfadmin
-![Texto Alternativo da Imagem](caminho/para/sua/imagem.extensao)
+VirtualBox_kali-linux-2024.4-virtualbox-amd64_25_11_2025_18_31_23.png
+
 
 
 
